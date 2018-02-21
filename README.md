@@ -1,6 +1,6 @@
 # Understanding the Influence of Musical Parameters on Cognitive Responses of Audio Notifications
-*** Author: Fu-Yin Cherng, Wen-Chieh Lin, Yi-Chen Lee, Jung-Tai King ***
-*** National Chiao Tung University, Hsinchu, Taiwan *** 
+*Author: Fu-Yin Cherng, Wen-Chieh Lin, Yi-Chen Lee, Jung-Tai King*
+*National Chiao Tung University, Hsinchu, Taiwan*
 
 Experimental material for the work "Understanding the Influence of Musical Parameters on Cognitive Responses of Audio Notifications," published in ACM SIGCHI 2018.
 
