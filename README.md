@@ -1,7 +1,7 @@
 # Understanding the Influence of Musical Parameters on Cognitive Responses of Audio Notifications
 *Author: Fu-Yin Cherng, Wen-Chieh Lin, Yi-Chen Lee, Jung-Tai King (National Chiao Tung University, Hsinchu, Taiwan)*
 
-Experimental material for the work "Understanding the Influence of Musical Parameters on Cognitive Responses of Audio Notifications," published in ACM SIGCHI 2018.
+Experimental material for the work "Understanding the Influence of Musical Parameters on Cognitive Responses of Audio Notifications," published in ACM SIGCHI 2018. Please go to [here] to obtain the full manuscript of this work.
 
 ## Abstract
 Well-designed notifications can successfully inform users of various devices and systems about their status; however, poorly designed ones can lead to negative user experiences. 
@@ -10,5 +10,3 @@ In this study, we conducted electroencephalography and behavioral experiments to
 ## Resource of marterials 
 The abiment sound (standard stimulus) is provided by http://taira-komori.jpn.org/freesoundtw.html.
 The audio notifications (deviant stimuli) are provided by Notification Sounds and Appraw.
-
-Please go to [here] to obtain the full manuscript of this work.
