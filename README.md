@@ -10,3 +10,5 @@ In this study, we conducted electroencephalography and behavioral experiments to
 ## Resource of marterials 
 The abiment sound (standard stimulus) is provided by http://taira-komori.jpn.org/freesoundtw.html.
 The audio notifications (deviant stimuli) are provided by Notification Sounds and Appraw.
+
+Please go to [here] to obtain the full manuscript of this work.
